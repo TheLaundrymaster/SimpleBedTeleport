@@ -1,0 +1,11 @@
+name: BedTeleport
+version: '1.0'
+main: me.laundrymaster.bedteleport.BedTeleport
+api-version: 1.19
+commands:
+  bed:
+    description: Teleports player to their bed
+    usage: /<command>
+  home:
+    description: Teleports player to their bed
+    usage: /<command>
